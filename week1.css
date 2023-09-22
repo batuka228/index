@@ -304,6 +304,10 @@ body {
     font-size: 12px;
   }
 }
+.test {
+  color:white;
+}
+
 @media screen and (max-width: 400px) {
   .section {
     width: 400px;
